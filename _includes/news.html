@@ -1,0 +1,47 @@
+<div class="column">
+    <h2>Latest news about the project</h2>
+
+    <!-- {{ include.category }} -->
+
+    <div class="row no-border">
+      <!--if a category is specified print just the news reguarding that-->
+      {% if include.category %}
+        {% for post in site.categories[include.category] offset: 0 limit: 3 %}
+        <div class="column tutorials">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="{{ post.image }}">
+          </a>
+		<div class="title_news">
+			<h3>{{ post.title }}</h3>
+		</div>
+          <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+        </div>
+        {% endfor %}
+
+
+      {% else %}
+        {% for post in site.posts offset: 0 limit: 3 %}
+          <!-- <li>
+            <span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          </li> -->
+
+          <div class="column tutorials">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <img src="{{ post.image }}">
+            </a>
+			<div class="title_news">
+				<h3>{{ post.title }}</h3>
+			</div>
+            <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+          </div>
+        {% endfor %}
+
+        {% endif %}
+    </div>
+    <p>
+      <a href="{{ site.baseurl }}/blog">
+        <em>See more »</em>
+      </a>
+    </p>
+
+</div>

@@ -1,0 +1,39 @@
+---
+layout: home
+title: Breathing Games by opencarecc
+---
+<div class="row">
+  {% include description.html %}
+</div>
+
+<div class="row">
+  {% include video.html %}
+</div>
+
+<div class="row">
+  <!--
+      NOTE: to show the image carousel uncomment {% include slick_slider.html %}
+			to show the video uncomment {% include video.html %}
+            !!! the layout wasn't designed to show both the carousel and the video on the same row !!!
+  -->
+  <!-- {% include video.html %} -->
+	{% include image_index.html %}
+	{% include release_notes.html %}
+</div>
+
+<div class="row">
+	{% include news.html %}
+</div>
+
+<div class="row">
+{% include license.html %}
+</div>
+
+<div class="row">
+  {% include slick_slider.html %}
+  {% include contribute.html %}
+</div>
+
+<!-- <div class="row" style="border:none">
+  {% include credits.html %}
+</div> -->

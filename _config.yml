@@ -1,0 +1,9 @@
+name: Breathing Games by opencarecc
+markdown: kramdown
+baseurl:
+permalink: /blog/:year/:month/:day/:title/
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+paginate: 10
+paginate_path: /blog/page:num/
