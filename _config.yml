@@ -1,9 +1,22 @@
-name: Breathing Games by opencarecc
+name: Voice instruments
+author: WeMake
 markdown: kramdown
-baseurl:
-permalink: /blog/:year/:month/:day/:title/
-gems:
+baseurl: 
+permalink: blog/:year/:month/:day/:title/
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-paginate: 10
-paginate_path: /blog/page:num/
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "Voice instruments by opencarecc"
+tagline: "This is the Voice instruments' websites"
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
