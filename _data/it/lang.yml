@@ -24,6 +24,9 @@ header:
     - text: "Costruisci!"
       link: "https://github.com/opencarecc/voiceinstruments/wiki"
 
+# dictionary keys for description.html include file
+description: "Questa è la descrizione del progetto Voice instruments"
+
 # dictionary keys for video.html include file
 video:
   title: "Cos'è open rampette?"
@@ -51,6 +54,9 @@ slick:
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
   #   - pic: 'https://opencare.github.io/rampette/assets/images/usertest_procedura.jpg'
   #   - pic: '{{ site.baseurl }}/assets/images/flier.jpg'
+
+# dictionary keys for image_index.html include file
+image_index: "<img src='https://opencarecc.github.io/breathinggames/assets/BG-home-image.jpg'>"
 
 # dictionary keys for release_notes.html include file
 release_notes:
