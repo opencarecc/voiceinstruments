@@ -1,12 +1,14 @@
 <div class="column">
-	<div class="img_slider">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-1.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-2.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-3.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-4.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-5.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-6.jpg">
-	  <img src="https://opencarecc.github.io/breathinggames/assets/BG-slider-img-mir-7.jpg">
-	</div>
-<p>Some moments from the <b>opencare Maker in Residence</b> of Breathing Games.</p>
+  <div class="img_slider">
+    <!-- {% for item in site.data[page.lang].lang["slick"]["pics"] %}
+      <img src="{{ item.pic }}">
+    {% endfor %} -->
+    <img src="https://c2.staticflickr.com/8/7255/26849084025_5ca9ba8b9d_z.jpg">
+    <img src="https://c2.staticflickr.com/8/7259/26781593981_aca6939443_z.jpg">
+    <img src="https://c2.staticflickr.com/8/7560/26243608944_31687dd734_z.jpg">
+    <img src="{{ site.baseurl }}/assets/slick_pics/flyer.jpg">
+  </div>
+
+  <!-- slider caption -->
+  <p>{{ site.data[page.lang].lang["slick"]["description"] }}</p>
 </div>

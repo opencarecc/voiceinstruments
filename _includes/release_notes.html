@@ -1,4 +1,24 @@
+<!-- To edit the content of this module please check lang.yml -->
 <div class="column">
+  <!-- title -->
+  <h2>{{ site.data[page.lang].lang["release_notes"]["title"] }}</h2>
+
+  <!-- content -->
+  <ul>
+    {% for item in site.data[page.lang].lang["release_notes"]["notes"] %}
+      <li>{{ item.note }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- link to more -->
+  <p>
+    {% for item in site.data[page.lang].lang["release_notes"]["more_link"] %}
+      <a href="{{ item.link }}"><em>{{ item.text }} &raquo;</em></a>
+    {% endfor %}
+  </p>
+</div>
+
+<!-- <div class="column">
 	<h2>Release* 0.3 - 2017/07/12</h2>
 	<ul>
 		<li><b>Project Name:</b></li>
@@ -27,4 +47,4 @@
 		<p class="font_size_12">
 			*'Release' shall mean the current state of the project. The outcomes of each sprint activity.
 		</p>
-</div>
+</div> -->
