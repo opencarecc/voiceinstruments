@@ -2,7 +2,7 @@
 
 
 # ------------------------------
-# --- GLOBAL dictionary keys --- 
+# --- GLOBAL dictionary keys ---
 # ------------------------------
 global:
   read_more: "Scopri di più"
@@ -10,12 +10,12 @@ global:
 
 
 # ---------------------------------
-# --- HOME page dictionary keys --- 
+# --- HOME page dictionary keys ---
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "Voice instruments"
-  tagline: "Questo è il template per il sito di Voice instruments"
+  title: "Voice Instruments"
+  tagline: "Questo è il template per il sito di Voice Instruments"
   buttons:
     - text: "Vedi su GitHub"
       link: "https://github.com/opencarecc/voiceinstruments"
@@ -25,13 +25,21 @@ header:
       link: "https://github.com/opencarecc/voiceinstruments/wiki"
 
 # dictionary keys for description.html include file
-description: "Questa è la descrizione del progetto Voice instruments"
+description: "<h3>Acknowledgements (da tradurre)</h3>
+    <p>
+      This website illustrates the experience and the progress of <b>Voice Instruments</b> within the <b>opencare Maker in Residence</b>,
+    which took place in WeMake from 01/09 to 09/09/2017.</b>
+    </p>
+  <h2>Our core values</h2>
+  <p>
+    coming soon
+  </p>"
 
 # dictionary keys for video.html include file
 video:
-  title: "Cos'è open rampette?"
-  description: "open rampette è un’iniziativa pilota per il miglioramento dell’accessibilità degli esercizi commerciali ed è promossa dal Comune di Milano e da WeMake | fablab e makerspace all’interno del progetto <a href='http://opencare.cc' target='_blank'>opencare</a>."
-  link: "about"
+  title: ""
+  description: ""
+  link: ""
 
 # dictionary keys for topics.html include file
 topics:
@@ -96,14 +104,12 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
-                        <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+  license_content_html: "Coming soon"
 
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a>.
+  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Voice Instruments ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         Questo progetto ha ricevuto fondi dal programma di ricerca e innovazione Horizon 2020 dell'Unione Europea, accordo numero 688670
                         <br><br>
@@ -122,16 +128,16 @@ contribute:
 
 
 # ------------------------------
-# --- FOOTER dictionary keys --- 
+# --- FOOTER dictionary keys ---
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "è curato da <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Voice Instruments ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
 # --------------------------------
-# --- CATEGORY dictionary keys --- 
+# --- CATEGORY dictionary keys ---
 # --------------------------------
 # dictionary keys for category.html & post.html layout files
 category:
@@ -141,7 +147,7 @@ category:
 
 
 # ----------------------------
-# --- BLOG dictionary keys --- 
+# --- BLOG dictionary keys ---
 # ----------------------------
 # dictionary keys for blog/index.html file
 # pagination:
@@ -149,4 +155,3 @@ category:
 #   previous: "Precedente"
 #   page_1: "Pagina"
 #   page_2: "di"
-
