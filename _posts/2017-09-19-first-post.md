@@ -13,4 +13,4 @@ ref: first-post
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
 
-Lorem lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
