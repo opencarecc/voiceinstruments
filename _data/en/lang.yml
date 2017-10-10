@@ -127,7 +127,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Voice Instruments as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
+  credits_line_html: "is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Voice Instruments as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
