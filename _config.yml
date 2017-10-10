@@ -1,7 +1,7 @@
-name: Voice instruments
+name: Voice Instruments
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -11,8 +11,8 @@ plugins:
 exclude: [README.md]
 github: [metadata]
 
-title: "Voice instruments by opencarecc"
-tagline: "This is the Voice instruments' websites"
+title: "Voice Instruments by opencarecc"
+tagline: "This is the Voice Instruments' websites"
 
 # multilingual stuff
 index:
