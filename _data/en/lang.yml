@@ -56,7 +56,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: "provaprova"
+  description: "Some moments from Voice Instruments' <b>opencare Maker in Residence</b>"
 
 # dictionary keys for image_index.html include file
 image_index: "<img src='https://opencarecc.github.io/breathinggames/assets/BG-home-image.jpg'>"
