@@ -39,7 +39,7 @@ ul {
 }
 
 .no-border {
-  border: none!important; 
+  border: none!important;
 }
 
 /* === NAVIGATION BAR === */
@@ -177,7 +177,7 @@ header.shrink nav ul.dropdown-content {
   padding: .2rem;
 }
 nav .dropdown-content li {
-  padding: .5rem 0; 
+  padding: .5rem 0;
 }
 nav .dropdown-content li a,
 nav .current .dropdown-content li a {
@@ -312,7 +312,7 @@ header.shrink #lang-picker .dropdown-content {
   header img {
     max-width: 3.2rem;
   }
-   
+
   header.shrink img {
     max-width: 1.7rem;
   }
@@ -344,7 +344,7 @@ header.shrink #lang-picker .dropdown-content {
   #lang-picker {
     margin-top: .9rem;
   }
-  
+
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
@@ -397,8 +397,8 @@ header.shrink #lang-picker .dropdown-content {
     overflow: hidden;
     max-width: 100%;
   }
-  nav a:hover, 
-  nav .dropdown-content li a:hover, 
+  nav a:hover,
+  nav .dropdown-content li a:hover,
   nav .current .dropdown-content li a:hover {
     border-bottom: none;
   }
@@ -451,7 +451,7 @@ header {
     left: 0;
     width: 100%;
     height: 0;
-    text-align: center;   
+    text-align: center;
     transition: margin-top 0.2s, padding 0.2s, visibility 0.15s, opacity 0.18s, height 0.2s linear;
     border-top: 1px solid #eff0f1;
   }
@@ -503,14 +503,14 @@ header {
     border-top: 6px solid #ffffff;
     margin: 2px 0px 2px 2px;
   }
- 
+
   /* Dropdown trigger for mobile stuff */
   label[for="dropdown-trigger"] {
     /* critical positioning styles */
     position: relative;
   }
   #dropdown-trigger:checked + label[for="dropdown-trigger"] > li.dropdown > ul.dropdown-content {
-    display: block;    
+    display: block;
   }
   /* Mobile fix for dropdown menu triggered by checkbox, by removing this it will always stay visibile after first trigger */
   nav .dropdown:hover .dropdown-content {
@@ -530,7 +530,7 @@ header {
     right: 1.2rem;
     top: 1.8rem;
     z-index: 2;
-    
+
     /* non-critical apperance styles */
     height: 20px;
     width: 25px;
@@ -575,10 +575,10 @@ header {
   }
   label[for="lang-trigger"] {}
   #lang-trigger:checked + label[for="lang-trigger"] > li.dropdown > ul.dropdown-content {
-    display: block; 
-    position: absolute; 
+    display: block;
+    position: absolute;
     top: 1.8rem;
-    border: none;  
+    border: none;
   }
   #lang-picker .dropdown {
     padding-bottom: 0;
@@ -606,7 +606,7 @@ header {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(../assets/BG-home-img-02.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
+  background: url(../assets/VI-home-img.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1095,7 +1095,7 @@ footer img {
   footer img {
     max-width: 50%!important;
   }
-  
+
 }
 
 @media screen and (max-width: 42em) {
