@@ -14,8 +14,8 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "Voice instruments"
-  tagline: "This is the template for Voice instruments' website"
+  title: "Voice Instruments"
+  tagline: "voice module for electronic instruments and sensors"
   buttons:
     - text: "View on GitHub"
       link: "https://github.com/opencarecc/voiceinstruments"
