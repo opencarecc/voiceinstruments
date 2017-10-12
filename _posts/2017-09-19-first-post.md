@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Primo post IT"
-subtitle: "Il primo post di test in italiano"
+title: "First post EN"
+subtitle: "The first test post in english"
 date: 2017-09-19
 image: "/assets/flyer.jpg"
-categories: ["categoria1"]
+categories: ["kick-off"]
 by: "Admin"
-excerpt: "Questo è l'excerpt per Primo Post IT"
-lang: it
+excerpt: "This is the excerpt for First Post EN"
+lang: en
 ref: first-post
 ---
 
