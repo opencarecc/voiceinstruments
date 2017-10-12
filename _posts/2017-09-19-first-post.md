@@ -4,7 +4,7 @@ title: "First post EN"
 subtitle: "The first test post in english"
 date: 2017-09-19
 image: "/assets/flyer.jpg"
-categories: ["category1"]
+categories: ["kick-off"]
 by: "Admin"
 excerpt: "This is the excerpt for First Post EN"
 lang: en
