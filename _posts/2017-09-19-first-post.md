@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "First post EN"
-subtitle: "The first test post in english"
+title: "opencare MIR application - Voice Instruments"
+subtitle: "On August 8th 2017 I’ve submitted the application to the CALL FOR MAKERS - opencare Maker In Residence."
 date: 2017-09-19
-image: "/assets/flyer.jpg"
-categories: ["kick-off"]
+image: "/assets/VI-slider-img-01.jpg"
+categories: ["news"]
 by: "Admin"
 excerpt: "This is the excerpt for First Post EN"
 lang: en
-ref: first-post
+ref: application
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
+On August 8th 2017 I’ve submitted the application to the <b><a href='http://wemake.cc/opencare/maker-in-residence-en/' target='_blank'>CALL FOR MAKERS - opencare Maker In Residence</a></b>.
+<br><br>
+The opencare Maker in Residence is the first edition of a special residency program organized by WeMake, as part of the opencare European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
+<br><br>
+My project name is Voice Instruments, composed by voice display modules that allow people with disabilities, blind or unable to read, to learn a value that usually has to be read.
+<br><br>
+Read the full application on Edgeryders, click on this link!
