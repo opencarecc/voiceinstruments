@@ -4,11 +4,11 @@ title: "opencare MIR - Agile Kick Off"
 subtitle: "Sono Giulio  Berretta, ingegnere elettronico e maker nel tempo libero. Recentemente ho sviluppato diversi dispositivi elettronici di uso comune utilizzando anche Arduino."
 date: 2017-10-09
 image: "/voiceinstruments/assets/VI-post-img-02.jpg"
-categories: ["kick-off"]
+categories: ["news","kick-off"]
 by: "Admin"
 excerpt: "Sono Giulio  Berretta, ingegnere elettronico e maker nel tempo libero. Recentemente ho sviluppato diversi dispositivi elettronici di uso comune utilizzando anche Arduino."
 lang: it
-ref: kick-off
+ref: kick-offpost
 ---
 
 (DA TRADURRE)
