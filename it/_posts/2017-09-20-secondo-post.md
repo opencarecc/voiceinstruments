@@ -1,4 +1,4 @@
----
+s---
 layout: post
 title: "Secondo post IT"
 subtitle: "Il secondo post di test in italiano"
