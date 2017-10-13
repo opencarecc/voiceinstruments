@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR application - Voice Instruments"
 subtitle: "L'8 agosto 2017 ho mandato l'application per partecipare alla CALL FOR MAKERS - opencare Maker In Residence."
 date: 2017-08-08
-image: "/assets/flyer.jpg"
+image: "/voiceinstruments/assets/VI-post-img-01.jpg"
 categories: ["news"]
 by: "Admin"
 excerpt: "L'8 agosto 2017 ho mandato l'application per partecipare alla CALL FOR MAKERS - opencare Maker In Residence."
