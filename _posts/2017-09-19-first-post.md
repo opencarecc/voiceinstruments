@@ -7,6 +7,7 @@ image: "/assets/flyer.jpg"
 categories: ["kick-off"]
 by: "Admin"
 excerpt: "This is the excerpt for First Post EN"
+published: false
 lang: en
 ref: first-post
 ---
