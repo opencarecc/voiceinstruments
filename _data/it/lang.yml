@@ -56,7 +56,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Alcuni momenti della <b>opencare Maker in Residence</b> di Voice Instruments"
   # pics:
   #   - pic: 'https://farm5.staticflickr.com/4211/34767438573_c6c73445d7_z_d.jpg'
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
@@ -121,7 +121,7 @@ contribute:
   contribution_guidelines:
     - guideline: "Contribuire 1"
     - guideline: "Contribuire 2"
-    - guideline: "Contribuire 3"
+    - guideline: "Vuoi contribuire al progetto <b>Voice Instruments</b>? Scrivi a <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> o lascia un commento qui sotto!"
   more_link:
     - text: "Maggiori informazioni"
       link: "about"
@@ -132,7 +132,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Voice Instruments ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
+  credits_line_html: "è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Voice Instruments, è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
