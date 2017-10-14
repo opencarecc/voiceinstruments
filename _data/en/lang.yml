@@ -102,7 +102,9 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Coming soon"
+  license_content_html: "<img src='https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png'>
+  <p><b>Voice Instruments</b> is an <b>Open Source</b> project.</p>
+  <p><i>[The licence specifications will follow.]</i></p>"
 
 # dictionary keys for credits.html include file
 credits:
