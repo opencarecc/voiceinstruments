@@ -32,7 +32,9 @@ description: "<h3>Acknowledgements</h3>
     </p>
   <h2>Our core values</h2>
   <p>
-    coming soon
+    <b>Voice Instruments</b> project is an open source software / function that <b>gives voice</b> to electronic devices. It has been designed thinking
+    about blind people or, more generally, people unable to read, that otherwise wouldn’t be able to readily use specific devices such as
+    weather stations, thermostats, multimeters.
   </p>"
 
 # dictionary keys for video.html include file
