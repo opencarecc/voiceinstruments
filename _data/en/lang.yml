@@ -41,6 +41,7 @@ description: "<h3>Acknowledgements</h3>
 # dictionary keys for video.html include file
 video:
   title: ""
+  url: "https://www.youtube.com/embed/z6lobpiFeiU"
   description: ""
   link: "about"
 
