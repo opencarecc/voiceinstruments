@@ -15,7 +15,7 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "Voice Instruments"
-  tagline: "voice module for electronic instruments and sensors"
+  tagline: "module for display's vocalization"
   buttons:
     - text: "View on GitHub"
       link: "https://github.com/opencarecc/voiceinstruments"
@@ -32,11 +32,9 @@ description: "<h3>Acknowledgements</h3>
     </p>
   <h2>Our core values</h2>
   <p>
-    <b>Voice Instruments</b> project is an open source software / function that <b>gives voice</b> to electronic devices.
-    <br><br>
-    It has been designed thinking about <b>blind people</b> or, more generally, <b>people unable to read</b>, that otherwise wouldn’t be able
-    to readily use specific devices such as weather stations, thermostats, multimeters.
-  </p>"
+    <b>Voice Instrument</b> is an open source interface designed for speaking numeric values and service messages to meet the needs of <b>people
+    unable to read</b> or in contexts where it is uncomfortable to use the display to read values on a monitor.
+</p>"
 
 # dictionary keys for video.html include file
 video:
@@ -120,9 +118,10 @@ credits:
 contribute:
   title: "How to contribute"
   contribution_guidelines:
-    - guideline: "Contribute 1"
-    - guideline: "Contribute 2"
-    - guideline: "Do you want to contribute to the <b>Voice Instruments</b> project? Write to <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> or leave a comment below!"
+    # - guideline: "Contribute 1"
+    # - guideline: "Contribute 2"
+    # - guideline:
+      "Do you want to contribute to the <b>Voice Instruments</b> project? Write to <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> or leave a comment below!"
   more_link:
     - text: "Read more"
       link: "about"
