@@ -13,7 +13,7 @@ ref: application
 
 L'8 agosto 2017 ho mandato l'application per partecipare alla <b>[CALL FOR MAKERS - opencare Maker In Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>.
 <p>
-La opencare Maker in Residence è la prima edizione di un programma speciale di residenze, organizzato da WeMake all’interno del progetto europeo <b>[opencare](http://opencare.cc)</b>.
+La opencare Maker in Residence è la prima edizione di un programma speciale di residenze, organizzato da WeMake all’interno del progetto europeo opencare.
 Ha lo scopo di fornire supporto, assistenza, finanziamenti ed accelerazione ai Makers - di tutto il mondo - interessati a sviluppare, validare o iterare un progetto open source nell’ambito del benessere e della cura.
 </p>
 Il mio progetto si chiama <b>Voice Instruments</b>, ed è composto da un modulo vocale per display che permette alle persone con disabilità, non vedenti o impossibilitate alla lettura di apprendere un valore che solitamente andrebbe letto.
