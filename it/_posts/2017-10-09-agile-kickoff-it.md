@@ -18,7 +18,7 @@ Dopo essermi sbizzarrito realizzando gli accessori più ignoti, ho pensato di da
 Successivamente allo sviluppo della circuiteria elettronica sperimentale, mi sono adoperato per dare una forma ed una veste a questi oggetti ed i miei amici mi hanno guidato verso <b>WeMake</b>, lo spazio che sognavo.
 
 <img src='{{ site.baseurl }}/assets/VI-post-img-03.jpg'>
-<blockquote><i>Giulio mentre assembla il nuovo case, tagliato a laser da Andrea Biffi, per poter contenere un lettore mp3.</i></blockquote>
+<blockquote><i>Giulio Berretta mentre assembla il nuovo case, tagliato a laser da Andrea Biffi, per poter contenere un lettore mp3.</i></blockquote>
 
 Presso questo fablab ho conosciuto  fantastiche  persone che  interessate ai miei progetti, mi hanno fornito sin dal primo giorno il supporto necessario alla realizzazione del prodotto finito.
 Inizialmente, è stato strutturato il lavoro da svolgere definendo gli obiettivi ed in seguito sono state selezionate le persone con le competenze più adatte per svolgere i relativi compiti.
