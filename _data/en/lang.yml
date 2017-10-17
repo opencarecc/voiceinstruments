@@ -120,7 +120,7 @@ contribute:
   contribution_guidelines:
     # - guideline: "Contribute 1"
     # - guideline: "Contribute 2"
-    guideline: "Do you want to contribute to the <b>Voice Instruments</b> project? Write to <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> or leave a comment below!"
+    - guideline: "Do you want to contribute to the <b>Voice Instruments</b> project? Write to <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> or leave a comment below!"
   more_link:
     - text: "Read more"
       link: "about"

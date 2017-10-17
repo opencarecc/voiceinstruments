@@ -8,13 +8,19 @@ lang: en
 
 # About page
 <b>Voice Instrument</b> is an open source interface designed for speaking numeric values and service messages to meet the needs of people <b>unable to read</b> or  in contexts where it is <b>uncomfortable to use the display</b> to read values on a monitor.
-The project was born because working in a chemistry lab I felt the need to build a talking PH-meter whose technology could be included in other contexts and allow others to connect devices to the voice interface.
+<br><br>
+The project was born because working in a chemistry lab I felt the need to build a <b>talking PH-meter</b> whose technology could be included in other contexts and allow others to connect devices to the voice interface.
+
+<img src="https://github.com/opencarecc/voiceinstruments/blob/gh-pages/assets/VI-home-img.jpg" alt="VI-home-img">
+<blockquote><i>Voice Instruments' first pH-meter prototype</i></blockquote>
 
 ### SCENARIO
-The majority of electrical equipment currently available on the market consists of a visual output device, that communicates and interacts with the user through a visual display.
-Some devices, however, are also equipped with a voice interaction system, that allows users to utilize this technology without using their sight.
+The majority of electrical equipment currently available on the market consists of a <b>visual output device</b>, that communicates and interacts with the user through a visual display.
+<p>
+Some devices, however, are also equipped with a <b>voice interaction system</b>, that allows users to utilize this technology without using their sight.
 Nevertheless, the totality of these electrical devices equipped with an alternative interface is very narrow and confined and is often regarding popular customary appliances, such as smartphones, domestic or medical scales.
-In Italy, therefore, finding “voice instruments” (as weather stations, domestic thermostats, washing machines or digital multimeters) is quite difficult, if not impossible.
+</p>
+In Italy, therefore, finding <b>“voice instruments”</b> (as weather stations, domestic thermostats, washing machines or digital multimeters) is quite difficult, if not impossible.
 
 # Journey
 Initially, while working in a chemistry lab, I thought about building a measuring instrument particularly useful in these contexts: a speaking pH-meter.
