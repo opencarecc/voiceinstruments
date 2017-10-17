@@ -34,7 +34,8 @@ In addition we developed two complete <b>guideline libraries</b> to manage the e
 </p>
 In order to develop the first prototype of the speaking pH meter we analysed the test project and, subsequently, we conducted market researches in order to select the most suitable components to the final aim and finally, according to them, we designed the PCB.
 After defining the PCB specifications we designed a case that could contain the PCB itself and the components.
-</p>
+
+<p>
 The current version of the case was realized in lasercut plywood. This material has been chosen mainly because of its cheap price and it’s acoustic affinity.
 The libraries have been conceived in order to <b>read numeric values and service messages</b>, and in order to function with two of the most common audio modules. The algorithm that has been used to read the values, however, could function with any other module.
 </p>
