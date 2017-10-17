@@ -11,7 +11,7 @@ lang: en
 <br><br>
 The project was born because working in a chemistry lab I felt the need to build a <b>talking PH-meter</b> whose technology could be included in other contexts and allow others to connect devices to the voice interface.
 
-<img src='{{ site.baseurl }}/assets/VI-home-img.jpg'>
+<img src='{{ site.baseurl }}/assets/VI-about-img-02.jpg'>
 <blockquote><i>Voice Instruments' first pH-meter prototype</i></blockquote>
 
 ### SCENARIO
@@ -27,7 +27,9 @@ In Italy, therefore, finding <b>“voice instruments”</b> (as weather stations
 <blockquote><i>Giulio Berretta presenting the pH-meter during the Arduino User Group</i></blockquote>
 Initially, while working in a chemistry lab, I thought about building a measuring instrument particularly useful in these contexts: <b>a speaking pH-meter</b>.
 <p>
-During the [opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/) programme I produced, together with WeMake staff and makers, the first prototype of the speaking pH-meter, according to the requirements that we defined at the beginning of this journey.
+During the
+[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)
+programme I produced, together with WeMake staff and makers, the first prototype of the speaking pH-meter, according to the requirements that we defined at the beginning of this journey.
 
 In addition we developed two complete <b>guideline libraries</b> to manage the enunciation of the numerical values and service messages, functioning with the most common audio modules, that can be used with the majority of sensors and devices available on the market.
 </p>
@@ -43,7 +45,7 @@ Currently these numeric values are read by this interface in Italian language. F
 
 ### TEAM
 <img src='{{ site.baseurl }}/assets/VI-about-img-01'>
-<blockquote><i>Giulio Berretta presenting the pH-meter during the Arduino User Group</i></blockquote>
+<blockquote><i>Giulio Berretta at the Arduino User Group</i></blockquote>
 <p>
 My name is <b>Giulio Berretta</b>, I am 27 years old, graduated as an Industrial Chemical Engineer and with a Master of Science degree in Electronic Engineering at the Politecnico di Milano.
 </p>
