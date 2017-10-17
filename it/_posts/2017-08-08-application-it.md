@@ -11,11 +11,11 @@ lang: it
 ref: application
 ---
 
-(DA TRADURRE)
-On August 8th 2017 I’ve submitted the application to the <b><a href='http://wemake.cc/opencare/maker-in-residence-en/' target='_blank'>CALL FOR MAKERS - opencare Maker In Residence</a></b>.
+L'8 agosto 2017 ho mandato l'application per partecipare alla <b>[CALL FOR MAKERS - opencare Maker In Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>.
+<p>
+La opencare Maker in Residence è la prima edizione di un programma speciale di residenze, organizzato da WeMake all’interno del progetto europeo <b>[opencare](http://opencare.cc)</b>.
+Ha lo scopo di fornire supporto, assistenza, finanziamenti ed accelerazione ai Makers - di tutto il mondo - interessati a sviluppare, validare o iterare un progetto open source nell’ambito del benessere e della cura.
+</p>
+Il mio progetto si chiama <b>Voice Instruments</b>, ed è composto da un modulo vocale per display che permette alle persone con disabilità, non vedenti o impossibilitate alla lettura di apprendere un valore che solitamente andrebbe letto.
 <br><br>
-The opencare Maker in Residence is the first edition of a special residency program organized by WeMake, as part of the <a href='http://opencare.cc/' target='_blank'>opencare</a> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
-<br><br>
-My project name is <b>Voice Instruments</b>, composed by voice display modules that allow people with disabilities, blind or unable to read, to learn a value that usually has to be read.
-<br><br>
-Read the full application on <b>Edgeryders</b>, click on this <a href='https://edgeryders.eu/t/mir-application-voice-instruments/6666' target='_blank'>link</a>!
+Leggi l’intero testo dell’application su Edgeryders, clicca su questo [link](https://edgeryders.eu/t/mir-application-voice-instruments/6666/7?u=giulioberretta).
