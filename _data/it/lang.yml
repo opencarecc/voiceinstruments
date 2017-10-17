@@ -15,7 +15,7 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "Voice Instruments"
-  tagline: "moduli vocali per strumenti elettronici e sensori"
+  tagline: "modulo per la vocalizzazione dei display"
   buttons:
     - text: "Vedi su GitHub"
       link: "https://github.com/opencarecc/voiceinstruments"
@@ -32,10 +32,9 @@ description: "<h3>Riconoscimenti</h3>
     </p>
   <h2>I nostri valori fondamentali</h2>
   <p>
-      Il progetto <b>Voice Instruments</b> è un software / funzionalità open source che <b>dà una voce</b> a dispositivi elettronici.
-      <br><br>
-      È stato progettato pensando alle <b>persone non vedenti</b> o più in generale <b>impossibilitate alla lettura</b>, che altrimenti
-      non potrebbero utilizzare agevolmente strumenti come stazioni meteo, termostati, multimetri.
+      <b>Voice Instruments</b> è un'interfaccia open source concepita per la lettura vocale di valori numerici e messaggi di servizio utili a
+      soddisfare i bisogni di <b>persone impossibilitate alla lettura</b> o di persone operanti in contesti dove risulta scomodo usare la
+      vista per leggere i valori su di un monitor.
   </p>"
 
 # dictionary keys for video.html include file
@@ -68,7 +67,7 @@ slick:
   #   - pic: '{{ site.baseurl }}/assets/images/flier.jpg'
 
 # dictionary keys for image_index.html include file
-image_index: "<img src='https://opencarecc.github.io/breathinggames/assets/BG-home-image.jpg'>"
+image_index: "<img src='https://opencarecc.github.io/voiceinstruments/assets/VI-about-img-02.jpg'>"
 
 # dictionary keys for release_notes.html include file
 release_notes:
@@ -125,8 +124,8 @@ credits:
 contribute:
   title: "Come contribuire al progetto"
   contribution_guidelines:
-    - guideline: "Contribuire 1"
-    - guideline: "Contribuire 2"
+    # - guideline: "Contribuire 1"
+    # - guideline: "Contribuire 2"
     - guideline: "Vuoi contribuire al progetto <b>Voice Instruments</b>? Scrivi a <a href='mailto:voiceinstrumentsstaff@wemake.cc'>voiceinstrumentsstaff@wemake.cc</a> o lascia un commento qui sotto!"
   more_link:
     - text: "Maggiori informazioni"

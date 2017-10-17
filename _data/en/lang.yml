@@ -61,7 +61,7 @@ slick:
   description: "Some moments from Voice Instruments' <b>opencare Maker in Residence</b>"
 
 # dictionary keys for image_index.html include file
-image_index: "<img src='https://github.com/opencarecc/voiceinstruments/blob/gh-pages/assets/VI-about-img-02.jpg'>"
+image_index: "<img src='https://opencarecc.github.io/voiceinstruments/assets/VI-about-img-02.jpg'>"
 
 # dictionary keys for release_notes.html include file
 release_notes:
