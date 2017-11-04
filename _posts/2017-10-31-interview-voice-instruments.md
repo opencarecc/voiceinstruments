@@ -11,6 +11,6 @@ lang: en
 ref: mir-interview-voice-instruments
 ---
 
-During the *opencare Maker in Residence* I had the chance to talk with Alessia, who is working on communication strategies at WeMake, and describe my project, Voice Instruments. During the interview we have touched different topics, including my personal attitude towards designing and making.
+During the <b>opencare Maker in Residence</b> I had the chance to talk with Alessia, who is working on communication strategies at WeMake, and describe my project, Voice Instruments. During the interview we have touched different topics, including my personal attitude towards <b>designing and making</b>.
 <br><br>
 If you are curious to learn more about me and project, click  [here](http://wemake.cc/2017/10/31/wemake-stories-voice-instruments-lo-strumento-per-i-maker-non-vedenti/) (_Italian text_)!
