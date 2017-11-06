@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Intervista"
 subtitle: "Durante la opencare Maker in Residence ho avuto l'opportunità di parlare con Alessia e dialogare sul mio progetto, Voice Instruments"
 date: 2017-10-31
-image: "http://voiceinstruments.opencare.cc/assets/VI-post-img-04.jpg"
+image: "http://opencarecc.github.io/voiceinstruments/assets/VI-post-img-04.jpg"
 categories: ["news"]
 by: "Admin"
 excerpt: "Durante la opencare Maker in Residence ho avuto l'opportunità di parlare con Alessia e dialogare sul mio progetto, Voice Instruments"
