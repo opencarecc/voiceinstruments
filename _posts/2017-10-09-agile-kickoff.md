@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Agile Kick Off"
 subtitle: "My name is Giulio Berretta, I’m a blind electronic engineer and, in my spare time, maker. I’ve recently developed customary electronic devices, using also Arduino board."
 date: 2017-10-09
-image: "/voiceinstruments/assets/VI-post-img-02.jpg"
+image: "http://opencarecc.github.io/voiceinstruments/assets/VI-post-img-02.jpg"
 categories: ["news","kick-off"]
 by: "Admin"
 excerpt: "My name is Giulio Berretta, I’m a blind electronic engineer and, in my spare time, maker. I’ve recently developed customary electronic devices, using also Arduino board."
