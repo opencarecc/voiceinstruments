@@ -4,7 +4,7 @@ title: "opencare conference - Call for Solutions"
 subtitle: "Il 22 e 23 novembre ho partecipato alla conferenza di opencare, dal momento che sono stato selezionato insieme ad altri 9 progetti per la Call for Solutions."
 date: 2017-11-23 12:13:04 +0200
 image: "http://opencarecc.github.io/voiceinstruments/assets/VI-post-img-05.jpg"
-categories: ["news"]
+categories: ["news","evento"]
 by: "Admin"
 excerpt: "Il 22 e 23 novembre ho partecipato alla <b>conferenza di opencare</b>, dal momento che sono stato selezionato insieme ad altri 9 progetti per la <b>Call for Solutions</b>."
 lang: it
