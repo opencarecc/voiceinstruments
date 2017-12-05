@@ -20,7 +20,7 @@ The <b>opencare conference</b> represents the conclusion of the European project
 
 The Call for Solutions, on the other hand, aims to <b>gather innovative ideas</b> in the field of new technologies, apps, equipment, entrepreneurial ideas, products and digital platforms that promote care solutions for communities, families, caregivers and single individuals.
 
-Even tho I didn't win the prize, I think this experience has been extremely useful to kickstart the project Voice Instruments and get feedback from the public and people interested in the topic.
+Even though I didn't win the prize, I think this experience has been extremely useful to kickstart the project Voice Instruments and get feedback from the public and people interested in the topic.
 
 Check out the gallery of the event:
 
