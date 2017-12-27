@@ -25,16 +25,18 @@ header:
       link: "https://github.com/opencarecc/voiceinstruments/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Acknowledgements</h3>
-    <p>
-      This website illustrates the experience and the progress of <b>Voice Instruments</b> within the <b>opencare Maker in Residence</b>,
-    which took place in WeMake from 01/09 to 09/09/2017.
-    </p>
-  <h2>Our core values</h2>
+description: "<h2>Our core values</h2>
   <p>
     <b>Voice Instrument</b> is an open source interface designed for speaking numeric values and service messages to meet the needs of <b>people
     unable to read</b> or in contexts where it is uncomfortable to use the display to read values on a monitor.
 </p>"
+
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Acknowledgements</h3>
+    <p>
+      This website illustrates the experience and the progress of <b>Voice Instruments</b> within the <b>opencare Maker in Residence</b>,
+    which took place in WeMake from 01/09 to 09/09/2017.
+    </p>"
 
 # dictionary keys for video.html include file
 video:

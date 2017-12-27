@@ -25,17 +25,19 @@ header:
       link: "https://github.com/opencarecc/voiceinstruments/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Riconoscimenti</h3>
-    <p>
-      Questo sito racconta l'esperienza ed il progresso di <b>Voice Instruments</b> all'interno del programma <b>opencare Maker in Residence</b>,
-      che ha avuto luogo presso WeMake dal 01/09 al 09/09/2017.
-    </p>
-  <h2>I nostri valori fondamentali</h2>
+description: "<h2>I nostri valori fondamentali</h2>
   <p>
       <b>Voice Instruments</b> è un'interfaccia open source concepita per la lettura vocale di valori numerici e messaggi di servizio utili a
       soddisfare i bisogni di <b>persone impossibilitate alla lettura</b> o di persone operanti in contesti dove risulta scomodo usare la
       vista per leggere i valori su di un monitor.
   </p>"
+
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>Voice Instruments</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 01/09 al 09/09/2017.
+    </p>"
 
 # dictionary keys for video.html include file
 video:
