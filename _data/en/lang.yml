@@ -21,8 +21,8 @@ header:
       link: "https://github.com/opencarecc/voiceinstruments"
     - text: "Download .zip"
       link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
-    - text: "Build your own!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+    - text: "Discover!"
+      link: "http://voiceinstruments.opencare.cc/about/"
 
 # dictionary keys for description.html include file
 description: "<h2>Our core values</h2>
