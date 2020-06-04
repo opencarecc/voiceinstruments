@@ -1,0 +1,19 @@
+<!-- content -->
+<div class="row no-border">
+  {% for item in site.data[page.lang].lang["tutorials"]["tutorial_column"] %}
+    <div class="column tutorials">
+      <a href="{{ item.link }}">
+        <img src="{{ item.img_url }}">
+      </a>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- link to more -->
+{% for item in site.data[page.lang].lang["tutorials"]["more_link"] %}
+  <p style="text-align: center;">
+    <a href="{{ item.link }}"><em>{{ item.text }} &raquo;</em></a>
+  </p>
+{% endfor %}

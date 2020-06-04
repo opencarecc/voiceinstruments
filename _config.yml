@@ -1,0 +1,38 @@
+name: Voice Instruments
+author: WeMake
+markdown: kramdown
+baseurl:
+permalink: blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "Voice Instruments by opencarecc"
+tagline: "This is the Voice Instruments' websites"
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
+
+# Facebook OpenGraph stuff
+opengraph:
+  title: "Voice Instruments by opencarecc"
+  url: "http://opencarecc.github.io/voiceinstruments/"
+  description: "This is the Voice Instruments' websites"
+  image_url: "http://opencarecc.github.io/voiceinstruments/assets/OC-Logo-socials.png"
+
+# Twitter Card stuff
+twitter:
+  site: "Voice Instruments by opencarecc"
+  title: "Voice Instruments by opencarecc"
+  description: "This is the Voice Instruments' websites"
+  creator: "opencarecc"
+  domain: "http://opencarecc.github.io/voiceinstruments/"
+  image_url: "http://opencarecc.github.io/voiceinstruments/assets/OC-Logo-socials.png"

@@ -1,0 +1,28 @@
+<!-- To edit the content of this module please check lang.yml -->
+<div class="column">
+  <!-- title -->
+  <h2>{{ site.data[page.lang].lang["contribute"]["title"] }}</h2>
+
+  <!-- content -->
+  <ul>
+    {% for item in site.data[page.lang].lang["contribute"]["contribution_guidelines"] %}
+      <li>{{ item.guideline }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- link to more -->
+  <p>
+    {% for item in site.data[page.lang].lang["contribute"]["more_link"] %}
+      <a href="{{ item.link }}"><em>{{ item.text }} &raquo;</em></a>
+    {% endfor %}
+  </p>
+</div>
+
+
+<!-- <div class="column">
+  <h2>How to contribute</h2>
+	Do you want to contribute to the <b>Breathing Games</b> project? 
+	Write us at <a href="mailto:breathinggamestaff@wemake.cc"><b>breathinggamestaff@wemake.cc</b></a>
+	or leave a comment below!
+</div>
+ -->
